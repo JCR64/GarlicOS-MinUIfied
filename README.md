@@ -16,3 +16,15 @@ Included in the download is `boot_logo.bmp.gz`, copy it and overwrite the old bo
 <img src="screenshot04.gif" width=320 />
 
 Open RetroArch from the GarlicOS menu, go into Settings, User Interface, Appearance and change Menu Color Theme to `Custom` and then set the Custom Menu Theme Preset to `MinUIfied`.
+
+### Battery Charger Images
+
+<img src="/misc/battery/battery_0.png" width=320 />
+
+Copy the `battery` folder to the `misc` partition of your SD card, you will also need to overwrite `ramdisk.img` with the one included.
+
+# Credits
+
+- MinUI by shauninman
+- White System Icons by Vidnez
+- [ramdisk.img by adixal](https://codeberg.org/adixal/RG35XX/src/branch/main/mods/charger_images)
